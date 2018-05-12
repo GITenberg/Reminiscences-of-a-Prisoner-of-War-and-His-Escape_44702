@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42881
 description: The author was a member of the 85th New York Infantry Regiment which
   served during the U.S. Civil War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44702#Reminiscences-of-a-Prisoner-of-War-and-His-Escape
 gutenberg_issued: '2014-01-18'
 gutenberg_type: Text
 identifiers:
